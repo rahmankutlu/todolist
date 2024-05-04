@@ -1,2 +1,0 @@
-# todolist
-BTK Eğitim
